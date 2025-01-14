@@ -13,11 +13,8 @@
 
 Aquí tienes un video demostrativo del funcionamiento de la aplicación:
 
-![Video Demostrativo](ruta/a/tu/gif/conversor_moneda.gif)
+![Video Demostrativo](https://github.com/mauriander/ConversorMonedasChhallengeOne/blob/main/videogif.gif)
 
-Si prefieres ver el video completo, haz clic en el siguiente enlace:
-
-[Ver Video](https://github.com/mauriander/ConversorMonedasChhallengeOne/blob/main/2025-01-14%2000-06-09.mkv)
 
 ## Requisitos
 
