@@ -10,9 +10,9 @@
 - Guarda los resultados de la conversión en un archivo JSON.
 - Interfaz gráfica fácil de usar.
 
-## Capturas de Pantalla
+## Video Demostrativo
 
-_**Nota:** Agrega aquí capturas de pantalla de la aplicación en funcionamiento._
+[![Ver Video](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
 
 ## Requisitos
 
@@ -73,11 +73,6 @@ _**Nota:** Agrega aquí capturas de pantalla de la aplicación en funcionamiento
 4. Haz push a la rama (`git push origin feature-nueva`).
 5. Abre un Pull Request.
 
-## Video Demonstrativo
-
-## Video Demonstrativo
-
-[![Ver Video](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
 
 
 ## Licencia
