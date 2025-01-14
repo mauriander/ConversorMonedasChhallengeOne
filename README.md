@@ -1,4 +1,3 @@
-# ConversorMonedasChhallengeOne
 # Conversor de Moneda
 
 ¡Bienvenido al Conversor de Moneda! Esta aplicación permite convertir entre diferentes monedas de manera rápida y sencilla usando una interfaz gráfica. También guarda los datos de conversión en un archivo JSON para referencia futura.
@@ -12,7 +11,13 @@
 
 ## Video Demostrativo
 
-[![Ver Video]([https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg](https://github.com/mauriander/ConversorMonedasChhallengeOne/blob/main/2025-01-14%2000-06-09.mkv))]([https://www.youtube.com/watch?v=TU_VIDEO_ID](https://github.com/mauriander/ConversorMonedasChhallengeOne/blob/main/2025-01-14%2000-06-09.mkv))
+Aquí tienes un video demostrativo del funcionamiento de la aplicación:
+
+![Video Demostrativo](ruta/a/tu/gif/conversor_moneda.gif)
+
+Si prefieres ver el video completo, haz clic en el siguiente enlace:
+
+[Ver Video](https://github.com/mauriander/ConversorMonedasChhallengeOne/blob/main/2025-01-14%2000-06-09.mkv)
 
 ## Requisitos
 
@@ -61,7 +66,7 @@
 3. **Ingresa la cantidad a convertir.**
 4. **Haz clic en "Convertir".**
 5. **El valor convertido aparecerá en la etiqueta correspondiente.**
-6. **Los datos de conversión se guardarán en un archivo JSON en el directorio del proyecto.**
+6. **Los datos de conversión se guardarán en un archivo JSON en el directorio del proyecto.
 
 ## Contribuir
 
@@ -73,8 +78,7 @@
 4. Haz push a la rama (`git push origin feature-nueva`).
 5. Abre un Pull Request.
 
-
-
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
